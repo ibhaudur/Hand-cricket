@@ -1,0 +1,34 @@
+.scr{
+    color:whitesmoke;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.img{
+    background-image: url('../Image/5205447.jpg');
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+  }
+.ro{
+    display: flex; 
+    min-height:100%;
+    width: 100%;
+    flex-direction:column;
+    align-items:center;
+}
+.btn{
+    border: 2px solid whitesmoke;
+    border-radius: 48px;
+    margin-right: 50px;
+}
+.d{
+    background-color: brown;
+    border-radius: 10px;
+    text-align: center;
+}
+.bt{
+    /* background-color: aliceblue; */
+    padding-left:48px ;
+}
